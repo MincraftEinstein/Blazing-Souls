@@ -1,10 +1,10 @@
 {
   "pack": {
-    "pack_format": 18,
+    "pack_format": 34,
     "description": "Makes §6blazes§r in soul sand valleys §bblue §r|§7 §6MincraftEinstein",
     "supported_formats": {
       "min_version": 16,
-      "max_version": 25
+      "max_version": 34
     }
   }
 }
